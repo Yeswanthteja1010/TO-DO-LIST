@@ -14,7 +14,7 @@ input:not([type = "radio"]):not([type = "checkbox"]), button {
 }
 
 body {
-   background: #f1eff5;
+   background: lightskyblue;
    color: #000;
 }
 
@@ -27,8 +27,8 @@ section {
 
 h3 {
    color: #000;
-   font-size: 1rem;
-   font-weight: 400;
+   font-size: 0.875rem;
+   font-weight: 700;
    margin-bottom: 0.5rem;
 }
 
@@ -52,7 +52,7 @@ h4 {
 .greeting .title,
 .greeting .title input {
    color: #000;
-   font-size: 1.5rem;
+   font-size: 2rem;
    font-weight: 700;
 }
 
